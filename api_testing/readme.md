@@ -58,7 +58,3 @@
 - `GET` Загрузка контента для бокового меню
 - `GET` balanceopurp_content
 
-## ✅ Типы проверок
-- **Status codes:** 200, 201, 400, 401, 404
-- **JSON Schema** валидация
-- **Business logic** тесты
