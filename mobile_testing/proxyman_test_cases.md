@@ -462,7 +462,6 @@ Throttling
 
 ---
 
-# TC-PROXY-011
 
 ## Определение запросов с SSL Pinning
 
