@@ -1,4 +1,4 @@
-# Beeline Shop — QA Pet Project
+# Beeline Shop — QA Project
 Пет-проект по комплексному тестированию интернет-магазина Beeline.
 
 Проект включает:
