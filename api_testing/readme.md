@@ -1,4 +1,4 @@
-# 📱 Beeline Shop API Testing
+# Beeline Shop API Testing
 
 ## 📂 Структура тестов
 
